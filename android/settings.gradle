@@ -1,0 +1,3 @@
+rootProject.name = 'apnProjectW2D5'
+
+include ':app'
